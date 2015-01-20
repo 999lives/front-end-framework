@@ -1,0 +1,23 @@
+{
+  "name": "front-end-framework",
+  "version": "0.0.0",
+  "homepage": "https://github.com/999lives/front-end-framework",
+  "description": "My front end web development framework",
+  "authors": [
+    "Nutjaree wannasri"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "require": "*",
+    "requirejs": "~2.1.15",
+    "responsive-nav": "~1.0.34"
+  }
+}
